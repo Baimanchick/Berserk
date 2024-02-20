@@ -43,7 +43,7 @@ function HomePage() {
             <img
               src={
                 isHovered
-                  ? "https://www.icegif.com/wp-content/uploads/2023/05/icegif-796.gif"
+                  ? "https://media1.tenor.com/m/jvPlUQim6R4AAAAC/berserk-guts.gif"
                   : "https://i.kym-cdn.com/photos/images/newsfeed/001/373/163/017.gif"
               }
               alt="Cute animated illustration"
